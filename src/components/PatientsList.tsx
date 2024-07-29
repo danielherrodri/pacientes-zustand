@@ -7,7 +7,7 @@ export default function PatientsList() {
     <div className="md:w-1/2 lg:3/5 md:h-screen overflow-y-scroll">
       {patients.length ? (
         <>
-          <h2 className="font-black tetx-3xl text-center">
+          <h2 className="font-black text-3xl text-center">
             Listado de Pacientes
           </h2>
           <p className="text-xl mt-5 mb-10 text-center">
